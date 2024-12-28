@@ -33,7 +33,7 @@
 
 ### Задание 3
 
-1. ![Граф коммитов](https://github.com/Loreanna-star/sys-git-homework/blob/branch/main/screenshot.png)
+1. ![Граф коммитов](https://github.com/Loreanna-star/sys-git-homework/blob/main/screenshot.png)
 
 ### Задание 4
 
